@@ -1,0 +1,29 @@
+# Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+# Maven
+target/
+
+# Java
+*.class
+*.log
+
+# IDEs
+.idea/
+.vscode/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Local Maven Repository Files
+.mvn/
+
+# Hibernate / Database Config (optional)
+hibernate.cfg.xml
+
+# Environment files
+.env
